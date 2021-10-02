@@ -3,3 +3,7 @@
  - Bubble Sort:is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
  - Insertion Sort
  - Heap Sort
+ - Maximum of two numbers in Python
+ - Python Program for simple interest
+ - Python Program for factorial of a number
+ 

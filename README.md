@@ -1,5 +1,7 @@
 ### This repo contains sorting program in Python.
 #### List of programs available here :
+###This repo contain files of python .
+ -selection sort 
  - Bubble Sort
  - Insertion Sort
  - Heap Sort

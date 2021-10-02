@@ -3,3 +3,7 @@
  - Bubble Sort
  - Insertion Sort
  - Heap Sort
+ - Quick Sort 
+ - Merge Sort
+ - Radix Sort 
+ - Bogo Sort 

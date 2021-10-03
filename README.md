@@ -6,4 +6,6 @@
  - Maximum of two numbers in Python
  - Python Program for simple interest
  - Python Program for factorial of a number
+ - Django and Flask are most Popular Python Framework
+ - Python use for ML Studies Also
  

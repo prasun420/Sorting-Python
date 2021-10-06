@@ -1,0 +1,6 @@
+Naive Method
+ numeric string sorting
+for i in range(0, len(test_list)) :
+    test_list[i] = int(test_list[i])
+test_list.sort()
+print ("The resultant sorted list  : " +  str(test_list))
